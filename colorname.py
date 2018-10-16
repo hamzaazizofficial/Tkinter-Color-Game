@@ -1,5 +1,5 @@
-# hamzaazizofficial/instagram.com
-# redcoders/instagram.com
+#instagram.com/redcoders
+#instagram.com/hamzaazizofficial
 
 import tkinter
 import random
