@@ -1,5 +1,5 @@
 #instagram.com/redcoders
-#instagram.com/hamzaazizofficial
+#instagram.com/the_syntax_error
 
 import tkinter
 import random
